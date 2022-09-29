@@ -1,0 +1,46 @@
+{
+    "product" : [
+        {
+            "id" : 1,
+            "name" : "áo len",
+            "category" : "áo",
+            "price" : "$19.00",
+            "pic" : "https://scontent.webpluscnd.net/photos-df/a-0/1912-1868961-1/ao-len-nu-gu--uniqlo---wl144.png?atk=6f7db80a49ce4c5e7ac5f209ac9806c4"
+        },
+        {
+            "id" : 2,
+            "name" : "áo thun",
+            "category" : "áo",
+            "price" : "$15.00",
+            "pic" : "https://product.hstatic.net/1000357687/product/1_6f661df1e8b44c58bf89a7961b42d184_master.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "áo khoác",
+            "category" : "áo",
+            "price" : "$50.00",
+            "pic" : "https://cf.shopee.vn/file/6150e07f5aeff431f6a17f86f676ea4b"
+        },
+        {
+            "id" : 4,
+            "name" : "quần kaki",
+            "category" : "quần",
+            "price" : "$39.00",
+            "pic" : "https://vn-live-01.slatic.net/p/ef4f3db5c160602f3e2e68690eac9c65.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "quần perry",
+            "category" : "quần",
+            "price" : "$13.00",
+            "pic" : "https://vn-test-11.slatic.net/p/a0dd220c2100214466e6a75feafc08dd.jpg"
+        },
+        {
+            "id" : 6,
+            "name" : "nón vành rộng đi biển",
+            "category" : "phụ kiện",
+            "price" : "$9.00",
+            "pic" : "https://media3.scdn.vn/img3/2019/5_11/6TOlci_simg_de2fe0_500x500_maxb.jpg"
+        }
+    ]
+}
